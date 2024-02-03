@@ -8,4 +8,4 @@
 
 ### 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,kotlin,cs,js,html,css,sqlite,mysql,postgres,linux,bash,powershell,vscode,visualstudio,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,kotlin,cs,js,css,html,git,sqlite,mysql,postgres,linux,bash,powershell,figma&theme=light)](https://skillicons.dev)
